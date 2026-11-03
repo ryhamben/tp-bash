@@ -1,2 +1,5 @@
 *.tmp
 *.bak
+# Fichiers generes par le pipeline
+ci.log
+ci-workdir/
